@@ -51,6 +51,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 - [Pandas](https://pandas.pydata.org/) - ![Python](media/icon/python.png) Data structures and computational tools for working with tabular datasets
 - [Xarray](http://xarray.pydata.org/en/latest/) - ![Python](media/icon/python.png) Data structures and computational tools for multidimensional arrays, inspired by netCDF data model
+- [Matplotlib](http://matplotlib.org/) - ![Python](media/icon/python.png) Plotting library for Python, well integrated with Jupyter and particularly aimed at scientific analysis.
 
 ### Frameworks
 
@@ -153,7 +154,11 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 - Do we list all the open source climate model codes? Are they awesome enough?
 - [xarray-simlab](https://xarray-simlab.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) xarray extension for computer model simulations
-
+- [OARES](https://github.com/montimaj/OARES) - Netlogo Agent Based Model to simulate rainfall runoff and erosion in a watershed
+- [BernSCM](https://github.com/bernSCM/bernSCM) - Model for global carbon cycle–climate simulations, written in Fortran.
+- [Jcup](https://github.com/Jcuplib/jcup) - Fortran 'Coupling Library' for creating complex climate simulation model.
+- [DCPCM](https://github.com/ywkawai/DCPCM) - GFD Dennou Club Dcmodel project: the goal of dcmodel project is developing hierarchical numerical models for fluid dynamics in Earth and planetary sciences. Website: https://www.gfd-dennou.org/library/dcmodel/.
+ 
 ### Visualization
 
 - [PyViz](http://pyviz.org/) - ![Python](media/icon/python.png) A coordinated effort to make data visualization in Python easier to use, easier to learn, and more powerful. Sub-components include:
