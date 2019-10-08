@@ -153,6 +153,8 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 - Do we list all the open source climate model codes? Are they awesome enough?
 - [xarray-simlab](https://xarray-simlab.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) xarray extension for computer model simulations
+- [OARES](https://github.com/montimaj/OARES) - Netlogo Agent Based Model to simulate rainfall runoff and erosion in a watershed
+
 
 ### Visualization
 
